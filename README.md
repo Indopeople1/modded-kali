@@ -66,7 +66,7 @@
 7. Or, Install NetHunter KeX from [Nethunter Store](https://store.nethunter.com/en/packages/com.offsec.nethunter.kex/)
 8. Open VNC VIEWER & Click on + Button & Enter the Address `localhost:1` & Name anything you like
 9. Set the Picture Quality to High for better Quality
-10. Click on Connect & Input the Password
+10. Click on Connect & Input the Passwords 
 11. Install [Termux:x11](https://github.com/termux/termux-x11/releases)
 12. Enjoy :smile:
 
